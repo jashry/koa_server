@@ -1,0 +1,7 @@
+{
+    "name" : "My app -- production mode",
+    "mongodb": {
+        "user":"josh",
+        "url":"mongodb-server-url"
+    }
+}

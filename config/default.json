@@ -1,0 +1,7 @@
+{
+    "name" : "My app -- default mode",
+    "mongodb": {
+        "user":"josh",
+        "url":"mongodb-server-url"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name" : "My app -- development mode",
+    "mongodb": {
+        "user":"josh",
+        "url":"mongodb-server-url",
+        "password":"Xmode password"
+    }
+}
